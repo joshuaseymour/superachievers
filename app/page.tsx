@@ -1,19 +1,14 @@
-export default function Home() {
+import { Splash } from "@/components/splash"
+
+export default function Page() {
   return (
-    <div className="flex min-h-screen items-center justify-center">
-      <main className="flex flex-col items-center justify-center px-6 text-center">
-        <div className="space-y-6 max-w-3xl">
-          <h1 className="text-5xl font-light tracking-tight sm:text-6xl">
-            Superachievers
-          </h1>
-          
-          <div className="space-y-3 text-base sm:text-lg font-light">
-            <p>Multi Family Office Rewards</p>
-            <p>Synchronously Co‑Create Our Super Puzzle</p>
-            <p>Ensure you are set to always win with others via our multi family office.</p>
-          </div>
-        </div>
+    <div className="flex min-h-dvh flex-col bg-black">
+      <header className="pt-[env(safe-area-inset-top)]">
+        <div className="flex min-h-6 items-center justify-end px-6 sm:px-8" />
+      </header>
+      <main id="main" className="flex flex-1 flex-col">
+        <Splash />
       </main>
     </div>
-  );
+  )
 }
