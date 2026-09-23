@@ -1,43 +1,65 @@
-import type { Metadata, Viewport } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
-import "./globals.css";
-import { SITE } from "@/lib/site";
+import type { Metadata, Viewport } from "next"
+import type { ReactNode } from "react"
+import { Geist, Geist_Mono } from "next/font/google"
 
-const geist = Geist({ subsets: ["latin"], variable: "--font-sans" });
+import "./globals.css"
+import { ThemeProvider } from "@/components/theme-provider"
+import { SITE } from "@/lib/site"
+import { cn } from "@/lib/utils"
 
-const geistMono = Geist_Mono({
+const geist = Geist({ subsets: ["latin"], variable: "--font-sans" })
+
+const fontMono = Geist_Mono({
   subsets: ["latin"],
   variable: "--font-mono",
-});
+})
 
 export const metadata: Metadata = {
-  title: `${SITE.name} — ${SITE.descriptor}`,
+  metadataBase: new URL(SITE.url),
+  title: {
+    default: `${SITE.name} — ${SITE.descriptor}`,
+    template: `%s — ${SITE.name}`,
+  },
   description: SITE.summary,
-};
+  openGraph: {
+    type: "website",
+    siteName: SITE.name,
+    url: SITE.url,
+    title: `${SITE.name} — ${SITE.descriptor}`,
+    description: SITE.summary,
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: `${SITE.name} — ${SITE.descriptor}`,
+    description: SITE.summary,
+  },
+}
 
 export const viewport: Viewport = {
-  themeColor: "#000000",
-};
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#ffffff" },
+    { media: "(prefers-color-scheme: dark)", color: "#0c0a09" },
+  ],
+}
 
-export default function RootLayout({ children }: LayoutProps<"/">) {
+export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html
       lang="en"
-      className={`${geistMono.variable} font-sans ${geist.variable} h-full antialiased`}
-      style={{ backgroundColor: "#000" }}
+      suppressHydrationWarning
+      className={cn("antialiased", fontMono.variable, "font-sans", geist.variable)}
     >
-      <body
-        className="min-h-full text-zinc-50"
-        style={{ backgroundColor: "#000" }}
-      >
-        <a
-          href="#main"
-          className="sr-only rounded-md bg-zinc-900 px-4 py-2 text-sm font-medium text-zinc-50 focus:not-sr-only focus:fixed focus:top-3 focus:left-3 focus:z-50 focus:ring-2 focus:ring-zinc-400"
-        >
-          Skip to content
-        </a>
-        {children}
+      <body>
+        <ThemeProvider>
+          <a
+            href="#main"
+            className="sr-only rounded-md bg-background px-4 py-2 text-sm font-medium focus:not-sr-only focus:fixed focus:top-3 focus:left-3 focus:z-50 focus:ring-2 focus:ring-ring"
+          >
+            Skip to content
+          </a>
+          {children}
+        </ThemeProvider>
       </body>
     </html>
-  );
+  )
 }

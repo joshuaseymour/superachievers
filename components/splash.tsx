@@ -6,9 +6,12 @@ import type { Variants } from "motion/react"
 import { SITE } from "@/lib/site"
 
 /**
- * Same four-line splash as the live shell: name and role at the top, the
- * tagline commanding the center, the plain sentence anchoring the bottom.
- * No glow, no waitlist, no button.
+ * One system, five palettes. Every property sets the same four canon lines
+ * in the same structure, sizes, and weights — identity at the top, tagline
+ * commanding the center, plain sentence anchoring the bottom, filling the
+ * viewport on every screen. Only the canon colors differ: zinc for three,
+ * slate with violet-purple for Superachiever, stone with fuchsia-pink for
+ * Superachievers.
  */
 
 const group: Variants = {
@@ -30,6 +33,10 @@ export function Splash() {
 
   return (
     <section className="relative flex w-full flex-1 flex-col overflow-hidden px-6 pt-[calc(env(safe-area-inset-top)+1.5rem)] pb-[calc(env(safe-area-inset-bottom)+2.25rem)] [@media(max-height:480px)]:pt-4 [@media(max-height:480px)]:pb-5 sm:px-10">
+      <div
+        aria-hidden="true"
+        className="pointer-events-none absolute top-1/2 left-1/2 h-[34rem] w-[52rem] max-w-[170vw] -translate-x-1/2 -translate-y-1/2 rounded-full bg-fuchsia-500/[0.08] dark:bg-fuchsia-500/[0.16] blur-3xl"
+      />
       <motion.div
         variants={group}
         initial={reduced ? false : "hidden"}
