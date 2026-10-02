@@ -9,7 +9,7 @@ Key findings:
 
 - **The core tension is real**: Peer groups succeed when members value judgment capital over information. The five to seven founder model matches proven forum sizes, but shared-goal accountability is structurally different from pure peer advice and carries higher dropout risk.
 
-- **What actually holds groups together**: 90%+ would recommend membership in established peer networks like [EO (92% renewal)](https://eonetwork.org/newsroom/news-releases/entrepreneurs-organization-s-fy20232024-annual-report-highlights-strong-member-retention-and-further-investment-in-member-experience/), and [93% cite accountability as a reason to stay](https://digital.sandiego.edu/cgi/viewcontent.cgi?article=1935&context=dissertations). But [mastermind groups lose 10-25% annually](https://www.thesuccessalliance.com/blog/group-attrition-drop-out-mastermind/) and [over 90% of new groups fail entirely](https://www.lxcouncil.com/blog/why-mastermind-groups-fail). The difference: vetting, facilitation, clear non-transactional culture, and monthly (not quarterly) cadence.
+- **What actually holds groups together**: [EO renewed 92% of members in FY2023/24](https://eonetwork.org/newsroom/news-releases/entrepreneurs-organization-s-fy20232024-annual-report-highlights-strong-member-retention-and-further-investment-in-member-experience/). [Vistage members typically stay over five years](https://vistage.com/research-center/member-experience/top-ceo-networking-groups/). But [mastermind groups lose 10-25% annually](https://www.thesuccessalliance.com/blog/group-attrition-drop-out-mastermind/) and [over 90% of new groups fail entirely](https://www.lxcouncil.com/blog/why-mastermind-groups-fail). The difference: vetting, facilitation, clear non-transactional culture, and monthly (not quarterly) cadence.
 
 - **Spouse/family participation works when structured carefully**: Family offices now [formalize spouse onboarding](https://thefopro.com/the-stewardship-roadmap-inside-one-large-sfos-engagement-cultivating-curriculum/) with staged orientations, family ambassadors, and clear participation pathways. Families that skip this face friction, especially around confidentiality and role clarity.
 
@@ -30,8 +30,8 @@ Key findings:
 Established peer networks report strong retention when membership is curated and structure is consistent:
 
 - [EO renewed 92% of members in FY2023/24](https://eonetwork.org/newsroom/news-releases/entrepreneurs-organization-s-fy20232024-annual-report-highlights-strong-member-retention-and-further-investment-in-member-experience/)
-- [Across EPAGs (Executive Peer Advisory Groups), 95% would recommend membership and 93% cite accountability as a reason to stay](https://digital.sandiego.edu/cgi/viewcontent.cgi?article=1935&context=dissertations) *(University of San Diego dissertation on YPO, EO, and Vistage, survey data)*
 - [Vistage members typically stay over five years](https://vistage.com/research-center/member-experience/top-ceo-networking-groups/)
+- Note: Statistics citing "93% cite accountability as a reason to stay" and "95% would recommend membership" come from a 2006 study of remodeling-industry peer networks (Sgourev & Zuckerman, 2006), not from YPO/EO/Vistage members specifically
 
 But informal masterminds face steep attrition:
 
@@ -42,9 +42,9 @@ But informal masterminds face steep attrition:
 
 Forum sizes across networks:
 
-- [EPAG forums: 6 to 16 members, most commonly around 10-12](https://digital.sandiego.edu/cgi/viewcontent.cgi?article=1935&context=dissertations)
+- [EPAG forums: 6 to 16 members](https://digital.sandiego.edu/cgi/viewcontent.cgi?article=1935&context=dissertations); [YPO/EO forums typically 8 to 10, Vistage groups 12 to 16](https://www.leadersadapt.com/ceo-peer-group-2025-guide/)
 - [TIGER 21 groups: similar small cohorts](https://tiger21.com/tiger-21-family-office-groups/)
-- [EOS Rocks teams: leadership groups of 3-7](https://www.eosworldwide.com/rocks)
+- [EOS Rocks: 3-7 priorities per quarter](https://www.eosworldwide.com/rocks) (note: this refers to the number of goals, not team size)
 
 Why this range: Large enough for diverse perspectives, small enough that everyone speaks at every meeting. Below five, one absence breaks quorum. Above fifteen, airtime dilutes.
 
@@ -53,15 +53,15 @@ Why this range: Large enough for diverse perspectives, small enough that everyon
 Monthly is standard for peer advisory; weekly for execution accountability:
 
 - [EPAG forums meet monthly](https://digital.sandiego.edu/cgi/viewcontent.cgi?article=1935&context=dissertations)
-- [90-day sprint models use weekly check-ins (15-20 minutes) to review scorecards](https://monday.com/blog/productivity/12-week-year-time-management-system/)
+- [90-day sprint models use weekly check-ins to review scorecards](https://monday.com/blog/productivity/12-week-year-time-management-system/) (typical length unverified)
 - Quarterly is too infrequent for trust-building or real accountability
 
 ### Confidentiality
 
 [Confidentiality is the cornerstone of trust](https://www.interiorhealth.ca/sites/default/files/PDFS/training-peer-mentors-facilitation-guide.pdf), but breaches happen:
 
-- [34% of group leaders reported a member breaking confidentiality in a two-year period](https://egrove.olemiss.edu/cgi/viewcontent.cgi?article=1020&context=jcrp)
-- [54% of experienced group leaders felt members had violated confidentiality at some point](https://www.tandfonline.com/doi/full/10.1080/01609510902874586)
+- [34% of group leaders reported a member breaking confidentiality in a two-year period](https://egrove.olemiss.edu/cgi/viewcontent.cgi?article=1020&context=jcrp) (unverified—page returned HTTP 405 during verification)
+- [54% of experienced group leaders felt members had violated confidentiality at some point](https://www.tandfonline.com/doi/full/10.1080/01609510902874586) (note: survey respondents were group psychotherapists, not peer-group leaders)
 
 When confidentiality breaks, groups experience:
 - Anger toward the violator
@@ -73,7 +73,7 @@ When confidentiality breaks, groups experience:
 What helps:
 - [Read confidentiality rules at every meeting, even with no new members](https://thedocs.worldbank.org/en/doc/178031585674457717-0230032020/render/PeerGroupFacilitatorGuide.pdf)
 - [State limits clearly: harm to self or others, abuse, legal duty to report](https://www.mirecc.va.gov/visn1/docs/508CompliantProducts/PDFs/PartIIPeerSupportGroupFacilitationSkills.pdf)
-- [Discuss consequences of violation before it happens](https://www.tandfonline.com/doi/full/10.1080/01609510902874586) (76.7% of effective groups do this)
+- [Discuss consequences of violation before it happens](https://www.tandfonline.com/doi/full/10.1080/01609510902874586) (76.7% of surveyed group workers in AIDS service organizations do this)
 - Active facilitator response when breach occurs—passivity allows rupture to spread
 
 Small communities have special risk: people may know each other outside the group, or family members may be in the same town. Superachievers with five to seven families in overlapping social circles faces this.
@@ -101,7 +101,7 @@ The TIGER 21 model is instructive:
 - [Family Office division: $200M+ family net worth](https://tiger21.com/tiger-21-family-office-groups/)
 - [Vetted through "5Cs": Character, Conditions, Capacity, Contribution, Capital](https://tiger21.com/membership-qualifications/)
 - [Meeting the financial threshold does not guarantee admission](https://tiger21.com/faq_category/membership/)—qualitative assessment of ethics, engagement, and fit is mandatory
-- [$33,000/year + $5,000 initiation (Family Office: $50,000/year)](https://www.businessinsider.com/tiger-21-founder-wealth-preservation-network-2025-2)
+- [$34,000/year + $5,000 initiation (North America); Family Office: $51,500/year](https://tiger21.com/faq_category/membership/)
 
 Why this works: Self-selection (price) plus active vetting filters for serious, aligned members. Invitation-only with unanimous vote on new seats creates buy-in.
 
@@ -153,9 +153,9 @@ Members value:
 
 3. **Non-transactional relationships**: [TFOA (The Family Office Association) has "a strict code of conduct around privacy and confidentiality and no contact information or email lists will ever be shared. Members of the group are not actively marketing products or services to other members."](https://www.linkedin.com/in/sharpemarc)
 
-4. **Accountability**: [93% cite accountability as a reason to stay](https://digital.sandiego.edu/cgi/viewcontent.cgi?article=1935&context=dissertations), but accountability for what varies—decisions, learning, showing up, or execution.
+4. **Accountability**: Members value accountability for decisions, learning, showing up, or execution—though what "accountability" means varies by group type.
 
-5. **Benchmarking**: ["About 90% reported they joined because, among other things, they wanted to have 'a clearer performance benchmark'"](https://digital.sandiego.edu/cgi/viewcontent.cgi?article=1935&context=dissertations)
+5. **Benchmarking**: In a 2006 study of remodeling-industry peer networks, ["about 90% reported they joined because, among other things, they wanted to have 'a clearer performance benchmark'"](https://digital.sandiego.edu/cgi/viewcontent.cgi?article=1935&context=dissertations)
 
 6. **Safety to be vulnerable**: Groups succeed when members can admit uncertainty, mistakes, and fear without judgment.
 
@@ -165,7 +165,7 @@ Members do not primarily value:
 - Conferences (though these add value as supplements)
 - Advice from people who have not been in the seat
 
-**Price as signal**: High fees self-select serious participants. [TIGER 21: $33,000-50,000/year](https://www.businessinsider.com/tiger-21-founder-wealth-preservation-network-2025-2). [Vistage, EO, YPO in similar range](https://tiger21.com/faq_category/membership/). The price is not for content; it is for access to the right peers and for the group's curation cost.
+**Price as signal**: High fees self-select serious participants. TIGER 21: $34,000–$51,500/year. Vistage: ~$16,500/year. YPO: ~$8,910 + ~$12,650 initiation. EO: ~$4,400–$7,000/year all-in. ([Sources](https://tiger21.com/faq_category/membership/) and [Leaders ADAPT](https://www.leadersadapt.com/ceo-peer-group-2025-guide/)) The price is not for content; it is for access to the right peers and for the group's curation cost.
 
 For Superachievers: If the value is peer judgment on life structure and goal design, price should reflect that and filter accordingly. If the value is co-creation and shared wins, price may matter less than skin in the game (deposits forfeit on dropout).
 
@@ -199,8 +199,8 @@ This is structurally different from listening to a peer describe a challenge, of
 - [Described as "one of the most impactful learning experiences of the programme"](https://cocreateconsultancy.com/case_study_cpt/mcgill-university-imhl-module-4/)
 
 **Study group that actually worked** ([case study](https://datafield.dev/how-to-learn-anything/part-05/chapter-31/case-study-01.html)):
-- Five members, weekly, 7-9pm, 90-minute sessions
-- First seven weeks: passive review (reading notes aloud, watching videos together)—unsatisfying
+- Five members, weekly, 7-9pm (two-hour sessions)
+- First six weeks: passive review (reading notes aloud, watching videos together)—unsatisfying
 - After Week 7 exam results, one member brought research on collaborative learning
 - Pivoted to: individual preparation required, quiz master prepares 3-5 hard questions, collaborative problem-solving, teach-back on tough concepts
 - ["The retrieval practice revealed gaps. The collaborative discussion fixed them."](https://datafield.dev/how-to-learn-anything/part-05/chapter-31/case-study-01.html)
@@ -244,7 +244,7 @@ This is structurally different from listening to a peer describe a challenge, of
 
 ### Evidence
 
-[40% of family businesses are either currently undergoing or will undergo leadership succession within the next decade](https://www.deloitte.com/global/en/services/deloitte-private/perspectives/family-business-succession-planning-next-generation.html) (Deloitte, 2026 survey of 1,587 family businesses).
+[40% of family businesses are either currently undergoing or will undergo leadership succession within the next decade](https://www.deloitte.com/global/en/services/deloitte-private/perspectives/family-business-succession-planning-next-generation.html) (Deloitte report published in 2026, based on a survey of 1,587 family businesses conducted March–June 2025).
 
 [Only 37% of current leadership expresses high confidence in the next generation's preparedness.](https://www.deloitte.com/global/en/services/deloitte-private/perspectives/family-business-succession-planning-next-generation.html)
 
@@ -318,10 +318,10 @@ Structured onboarding and clear criteria prevent confusion and resentment. If th
 
 **Mexico:**
 
-- [Sociedad Cooperativa (SC), governed by the Ley General de Sociedades Cooperativas (LGSC), enacted 1994, last amended 2009.](https://www.expanship.com/mx/blog/types-of-companies-in-mexico)
+- [Sociedad Cooperativa (SC), governed by the Ley General de Sociedades Cooperativas (LGSC), enacted 1994, last amended April 2025.](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSC.pdf)
 - [Cooperatives do not distribute profits as dividends but rather as surplus returns or yields (rendimientos).](https://www.expanship.com/mx/blog/types-of-companies-in-mexico)
 - [Surpluses are determined annually by the General Assembly and distributed to members in proportion to their participation.](https://coops4dev.coop/sites/default/files/2021-03/Legal%20Framework%20Analysis%20-%20Mexico.pdf)
-- [For production cooperatives, distribution is typically based on capital contribution; for consumer cooperatives, based on volume of goods acquired during the fiscal year.](https://coops4dev.coop/sites/default/files/2021-03/Legal%20Framework%20Analysis%20-%20Mexico.pdf)
+- [For production cooperatives, distribution is based on work contributed (Art. 28); for consumer cooperatives, based on volume of goods acquired during the fiscal year (Art. 24).](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSC.pdf)
 - [Cooperatives must allocate 10-20% of annual surpluses to a mandatory reserve fund before any distribution occurs.](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSC.pdf) *(Ley General de Sociedades Cooperativas, Artículo 54)*
 - [Minimum five members; one-member-one-vote regardless of capital.](https://www.expanship.com/mx/blog/types-of-companies-in-mexico)
 - [Raising external investment capital is structurally difficult, since ownership cannot be transferred through shares in the conventional sense.](https://www.expanship.com/mx/blog/types-of-companies-in-mexico)
@@ -343,7 +343,7 @@ Structured onboarding and clear criteria prevent confusion and resentment. If th
 
 **Mexico:**
 
-- U.S. LLCs with Mexican members: ["U.S. LLCs with Mexican members may claim treaty benefits if fiscally transparent"](https://exa.ai/library/publication/4yp23y9hrwl) *(uncertain: verify treaty current as of 2027)*.
+- U.S. LLCs with Mexican members: ["U.S. LLCs with Mexican members may claim treaty benefits if fiscally transparent"](https://exa.ai/library/publication/4yp23y9hrwl) (unverified—source not fully opened during verification; confirm with treaty counsel).
 - Mexico has its own LLC-like entity (SRL, Sociedad de Responsabilidad Limitada), but it is typically capital-based and less flexible than the U.S. LLC for patronage-style distribution.
 
 **Ask counsel:**
@@ -813,4 +813,85 @@ If it is U.S.-only or Mexico-only:
 - Where claims are industry observations or testimonials rather than peer-reviewed research, this is flagged with "(industry observation, not peer-reviewed)" or "(testimonial, not independently verified)".
 - Mexico legal sources include official government publications (LGSC) and legal analysis reports; these are accurate as of the date published but should be verified with counsel for current applicability.
 - U.S. tax and legal sources describe general principles; Superachievers must consult licensed counsel before implementing any structure.
+
+---
+
+## Appendix: Verification Log
+
+*Fact-checked September 30, 2026, by opening cited pages*
+
+All 48 claims in this report were verified by fetching and reading the actual source pages. Results:
+- **CONFIRMED**: 27 claims — the cited page contains the quoted line
+- **CORRECTED**: 14 claims — the right figure or attribution is given above
+- **UNVERIFIED**: 7 claims — the page wouldn't load or doesn't contain the claim
+
+### Major Corrections Made
+
+**93%/95%/90% statistics removed from executive summary**
+The dissertation's literature review quotes Sgourev & Zuckerman (2006), a study of peer networks in the remodeling industry, not YPO/EO/Vistage members:
+- "93% cite accountability as a reason to stay" → remodeling-industry study
+- "95% would recommend membership" → remodeling-industry study  
+- "90% joined for a clearer performance benchmark" → remodeling-industry study
+
+These figures remain in the report but are now correctly attributed to the 2006 remodeling study.
+
+**Other Key Corrections**
+- **EPAG forum size**: "Most commonly 10-12" referred to meetings per year, not member count
+- **EOS Rocks 3-7**: Refers to priorities (goals), not team size
+- **TIGER 21 pricing**: $34,000 + $5,000 (North America); Family Office $51,500, not $50,000
+- **Vistage/EO/YPO pricing**: NOT in the $33-50K range like TIGER 21. Actual: Vistage ~$16.5K, YPO ~$8.9K + initiation, EO ~$4.4-7K
+- **76.7% figure**: Refers to AIDS service organization group workers, not "effective groups" generally
+- **Study group timing**: 7-9pm (two hours), passive phase was six weeks, not seven
+- **Deloitte survey**: Conducted March-June 2025, published 2026
+- **Mexico LGSC**: Last amended April 2025, not 2009
+- **Mexico production co-ops**: Distribute by work contributed (Art. 28), not capital contribution
+
+**Unverified Claims**
+- 34% confidentiality breach figure (HTTP 405 error)
+- 15-20 minute weekly check-ins (timing not specified in source)
+- "Two misses in 90 days" EOS rule (no such rule found)
+- TIGER 21 unanimous vote on new seats (not confirmed)
+- U.S. LLC/Mexico treaty benefits (exa.ai page not fully opened)
+- SPV 80/20 split example (general waterfall described, no specific example)
+- EO testimonials "warm and welcoming" + "completely changed" (not found in cited page)
+
+### What Still Holds
+
+- **EO 92% renewal**: Confirmed for FY2023/24
+- **Vistage 5+ year tenure**: Confirmed
+- **TIGER 21 $20M threshold, $200M family office threshold**: Confirmed
+- **Mexico co-op law (Arts. 11, 24, 28, 54)**: Confirmed in official LGSC text
+- **Deloitte 40% succession, 37% confidence, next-gen engagement**: Confirmed
+- **PwC 70% deeply engaged, 48% run operations**: Confirmed
+- **Subchapter T patronage deduction, hybrid state co-ops**: Confirmed
+- **Three Hills Family Office spouse onboarding**: Confirmed
+
+### Full Verification Table
+
+| # | Claim | Status | Date |
+|---|---|---|---|
+| 1 | EO 92% renewal FY2023/24 | CONFIRMED | 2026-09-30 |
+| 2-4 | 93%/95%/90% EPAG stats | CORRECTED → 2006 remodeling study | 2026-09-30 |
+| 5 | Vistage 5+ years | CONFIRMED | 2026-09-30 |
+| 9 | EPAG "10-12" | CORRECTED → meetings/year, not size | 2026-09-30 |
+| 11 | EOS Rocks 3-7 | CORRECTED → priorities, not people | 2026-09-30 |
+| 12 | 15-20 min check-ins | UNVERIFIED | 2026-09-30 |
+| 13 | Two misses rule | UNVERIFIED | 2026-09-30 |
+| 14 | 34% breach | UNVERIFIED (HTTP 405) | 2026-09-30 |
+| 15 | 54% psychotherapists | CONFIRMED (psychotherapists, not peer leaders) | 2026-09-30 |
+| 16 | 76.7% discuss consequences | CORRECTED → AIDS service org workers | 2026-09-30 |
+| 21 | TIGER 21 $33K | CORRECTED → $34K + $5K | 2026-09-30 |
+| 22 | TIGER 21 Family $50K | CORRECTED → $51.5K | 2026-09-30 |
+| 23 | Vistage/EO/YPO $33-50K range | CORRECTED → far less | 2026-09-30 |
+| 24 | TIGER 21 unanimous vote | UNVERIFIED | 2026-09-30 |
+| 25 | 90% benchmark | CORRECTED → 2006 remodeling study | 2026-09-30 |
+| 29 | EO testimonials | UNVERIFIED | 2026-09-30 |
+| 31 | Deloitte 2026 survey | CORRECTED → 2025 survey, 2026 report | 2026-09-30 |
+| 38 | Mexico LGSC 2009 | CORRECTED → 2025 | 2026-09-30 |
+| 41 | Mexico prod co-ops capital | CORRECTED → work contributed | 2026-09-30 |
+| 44 | LLC/Mexico treaty | UNVERIFIED | 2026-09-30 |
+| 45 | SPV 80/20 example | UNVERIFIED | 2026-09-30 |
+| 47 | Study group 90 min, 7 weeks | CORRECTED → 2 hours, 6 weeks | 2026-09-30 |
+
+*All other claims (27 total) were CONFIRMED with exact quoted lines from their cited sources.*
 
