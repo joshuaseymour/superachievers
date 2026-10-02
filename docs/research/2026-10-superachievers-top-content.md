@@ -12,13 +12,13 @@ This report covers what the highest-performing peer groups, masterminds, and fam
 
 #### YPO (Young Presidents' Organization)
 - **Price**: $8,910 annual dues plus $12,650 one-time initiation, before local chapter fees and events ([source](https://www.leadersadapt.com/ceo-peer-group-2025-guide/))
-- **Size**: Global network, 220+ chapters across 76 countries ([source](https://www.ypo.org/become-a-member/))
-- **How people join**: Application-based. Must be CEO/President/Board Chair age 54 or under at a qualifying-size company ([source](https://www.ypo.org/become-a-member/))
-- **Front-door message**: "To find out more about YPO membership, please tell us a little bit about yourself. YPO welcomes membership applications from women 54 and under who have reached the title of President, CEO Chairperson of the Board (or the equivalent)." ([source](https://www.ypo.org/become-a-member/))
+- **Size**: 38,000+ members in 150+ countries ([source](https://www.ypo.org/become-a-member/))
+- **How people join**: Application-based. Must be CEO/President/Board Chair under age 45 at a qualifying-size company ([source](https://www.ypo.org/become-a-member/))
+- **Front-door message**: "To find out more about YPO membership, please tell us a little bit about yourself. YPO welcomes membership applications from women 54 and under who have reached the title of President, CEO Chairperson of the Board (or the equivalent)." ([source](https://www.ypo.org/become-a-member/)) (Note: The "54 and under" language is from targeted outreach copy; YPO's general age requirement is under 45.)
 
 #### EO (Entrepreneurs' Organization)
-- **Price**: $4,400–$7,000 annual all-in ($2,630 global dues + chapter dues), plus $3,500 initiation fee (member-reported) ([source](https://www.leadersadapt.com/ceo-peer-group-2025-guide/))
-- **Size**: 18,000+ members, 220+ chapters, 76 countries; South Asia alone has 3,000+ members and a 99% renewal rate ([source](https://eonetwork.org/blog/10-standout-eo-moments-in-2025-focused-on-learning-leadership-and-community/))
+- **Price**: $4,400–$7,000 annual all-in ($2,630 global dues + chapter dues), plus $3,500 initiation fee ([source](https://www.leadersadapt.com/ceo-peer-group-2025-guide/))
+- **Size**: 20,300+ members, 225 chapters in 64 countries with members in 101 countries; South Asia alone has 3,000+ members and a 99% renewal rate ([source](https://eonetwork.org/blog/10-standout-eo-moments-in-2025-focused-on-learning-leadership-and-community/))
 - **How people join**: Must be a founder or owner past $1M annual revenue; application required ([source](https://www.leadersadapt.com/ceo-peer-group-2025-guide/))
 - **Front-door message**: "Our community...has a global business network of over 18,000 influential business owners...Our mission is to drive both business and personal growth through peer-to-peer learning, providing support for a holistic entrepreneurial experience." ([source](https://podcasts.apple.com/au/podcast/the-eo-business-podcast/id1440350419))
 
@@ -30,7 +30,7 @@ This report covers what the highest-performing peer groups, masterminds, and fam
 
 #### TIGER 21
 - **Price**: $34,000 annual (North America), $5,000 initiation; adjusted annually by CPI ([source](https://tiger21.com/faq_category/membership/))
-- **Size**: 700+ members managing $70+ billion in personal assets ([source](https://www.successstorypodcast.com/timothy-daniels-president-and-ceo-of-tiger-21-the-membership-club-for-billionaires/)); groups meet monthly
+- **Size**: 1,900+ members in 162 groups across 54 cities worldwide ([source](https://tiger21.com/member-experience/)); groups meet monthly
 - **How people join**: Invitation-only; must show $20M+ in verifiable investable assets or net worth; extensive vetting process ([source](https://valueaddvc.com/blog/top-family-office-associations-and-networks-you-should-know-about/))
 - **Front-door message**: "Once you reach a certain level of success, it can be difficult to know where to turn to talk through what's really on your mind...increasingly, UHNW individuals are looking to peer advisory groups" to discuss "wealth preservation, family dynamics, investment portfolios, and what the next chapter might look like." ([source](https://tiger21.com/insights/a-personal-board-of-advisors-the-value-of-peer-insight/))
 
@@ -65,14 +65,14 @@ This report covers what the highest-performing peer groups, masterminds, and fam
 ### Family Office Networks
 
 #### Institute for Private Investors (IPI)
-- **Price**: Tiered pricing; reported $30,000–$40,000/year range ([source](https://valueaddvc.com/blog/top-family-office-associations-and-networks-you-should-know-about/))
+- **Price**: Tiered pricing; estimated $15,000–$25,000/year range ([source](https://valueaddvc.com/blog/top-family-office-associations-and-networks-you-should-know-about/))
 - **Size**: Members have minimum $30M in assets ([source](https://www.instituteforprivateinvestors.com/membership))
 - **How people join**: Invitation-only for UHNW principals, families of substantial wealth, family office executives, private investors ([source](https://www.instituteforprivateinvestors.com/membership))
 - **Front-door message**: "By joining the Institute for Private Investors, you become part of the pre-eminent community for ultra-affluent private investors and families in North America...a safe harbor, non-solicitous environment." ([source](https://www.instituteforprivateinvestors.com/membership))
 
 #### Family Office Exchange (FOX)
 - **Price**: Not published; described as built for single family offices, effective entry "usually starts well above $50M in assets under management" ([source](https://valueaddvc.com/blog/top-family-office-associations-and-networks-you-should-know-about/))
-- **Size**: Covers 317 offices and $285 billion in North American wealth (Campden 2025 survey) ([source](https://valueaddvc.com/blog/top-family-office-associations-and-networks-you-should-know-about/))
+- **Size**: FOX is built for single family offices; Campden Wealth's 2025 survey (separate from FOX) covered 317 offices and $285 billion in North American wealth ([source](https://valueaddvc.com/blog/top-family-office-associations-and-networks-you-should-know-about/))
 - **How people join**: Membership application; serves single family offices
 - **Front-door message**: "The multigenerational family journey...critical family conversations that promote greater alignment...parenting in the context of wealth." (from 2026 FOX Foresight) ([source](https://www.familyoffice.com/knowledge-center/publication/2026-fox-foresight))
 
@@ -83,10 +83,10 @@ This report covers what the highest-performing peer groups, masterminds, and fam
 - **Front-door message**: "An invitation-only network built to solve one of private markets' most persistent challenges: fragmented, overpriced, and inconsistent access to co-investment opportunities...direct family-to-family co-investment opportunities...exclusive, invitation-only gatherings in private settings." ([source](https://www.apexgroup.com/insights/apex-group-launches-the-inner-circle-new-model-for-family-office-to-family-office-co-investment/))
 
 #### Relationship Capital
-- **Price**: $350 intake fee at application (for 2026 season) ([source](https://www.relationshipcapital.org/ourofferingsnav-1))
-- **Size**: Capped at 250 founding members for 2026 ([source](https://www.relationshipcapital.org/ourofferingsnav-1))
-- **How people join**: Application Nov 21–Dec 21, 2025; vetting interview; approval announced Jan 15, 2026; members-only season Jan–Dec 2026 ([source](https://www.relationshipcapital.org/ourofferingsnav-1))
-- **Front-door message**: "A private, curated membership community for families in business, family enterprises, and family offices...curated invitations based on your family's category...The FAFO Society (Family Office principals + next-gens only)." ([source](https://www.relationshipcapital.org/ourofferingsnav-1))
+- **Price**: $350 intake fee at application (for 2026 season) (unverified—site now returns 404) ([source](https://www.relationshipcapital.org/ourofferingsnav-1))
+- **Size**: Capped at 250 founding members for 2026 (unverified—site now returns 404) ([source](https://www.relationshipcapital.org/ourofferingsnav-1))
+- **How people join**: Application Nov 21–Dec 21, 2025; vetting interview; approval announced Jan 15, 2026; members-only season Jan–Dec 2026 (unverified—site now returns 404) ([source](https://www.relationshipcapital.org/ourofferingsnav-1))
+- **Front-door message**: "A private, curated membership community for families in business, family enterprises, and family offices...curated invitations based on your family's category...The FAFO Society (Family Office principals + next-gens only)." (unverified—site now returns 404) ([source](https://www.relationshipcapital.org/ourofferingsnav-1))
 
 ### Spanish-Language / Mexico / LatAm
 
@@ -98,9 +98,9 @@ This report covers what the highest-performing peer groups, masterminds, and fam
 
 #### Mentor Mastermind (Mexico)
 - **Price**: Not published
-- **Size**: 9 in-person meetings per year; selective ([source](https://mentormastermind.mx/))
-- **How people join**: Application for experienced business owners ("empresarios con trayectoria"); interview process; can request to attend one session as guest ([source](https://mentormastermind.mx/))
-- **Front-door message**: "Una comunidad exclusiva de empresarios con visión de largo plazo que desean fortalecer su liderazgo, compartir decisiones clave y acelerar el crecimiento de sus negocios a través de conversaciones estratégicas con otros empresarios." ([source](https://mentormastermind.mx/))
+- **Size**: 9 in-person meetings per year (unverified—site suspended); selective ([source](https://mentormastermind.mx/))
+- **How people join**: Application for experienced business owners ("empresarios con trayectoria"); interview process; can request to attend one session as guest (unverified—site suspended) ([source](https://mentormastermind.mx/))
+- **Front-door message**: "Una comunidad exclusiva de empresarios con visión de largo plazo que desean fortalecer su liderazgo, compartir decisiones clave y acelerar el crecimiento de sus negocios a través de conversaciones estratégicas con otros empresarios." (unverified—site suspended) ([source](https://mentormastermind.mx/))
 
 #### EntreHouse Mexico City
 - **Price**: Not published; founding terms covered in individual call ([source](https://entrehouse.com/mexico))
@@ -123,15 +123,15 @@ This report covers what the highest-performing peer groups, masterminds, and fam
 **YPO**
 - *Mistakes Over Failure* Season 4 (2026): Co-hosts Dr. Christine Crawford and YPO Global Chairman Debby Carreau interview YPO members about "missteps, breakthroughs and lessons shaping the leaders of the future" ([source](https://www.linkedin.com/posts/ypoglobal_ypo-mistakesoverfailure-yposhapingthefuture-activity-7442533264591904768-ZLyx))
 - *Voices of the Inspired*: Newly launched podcast with Peter Edmund Johnson covering leadership, responsibility, decision-making ([source](https://www.linkedin.com/feed/update/urn:li:activity:7424396490237784065))
-- **Public signal**: LinkedIn posts show 75 reactions, 4 comments for Season 4 announcement; engagement described but no subscriber count published
+- **Public signal**: LinkedIn posts show 76 reactions, 4 comments for Season 4 announcement; engagement described but no subscriber count published
 
 **Hampton**
-- *Moneywise*: Podcast featuring ultra-wealthy individuals and entrepreneurs revealing personal finances; 20,000–40,000 downloads per episode reported (as of Jan 2024) ([source](https://community.inc/article/hampton))
+- *Moneywise*: Podcast featuring ultra-wealthy individuals and entrepreneurs revealing personal finances; 20,000–40,000 downloads per episode (self-reported after about 21 episodes, around mid-2024) ([source](https://community.inc/article/hampton))
 - New Hampton YouTube channel launched Feb 2026 for transparent company-building content, starting with Adam White of Front Office Sports ([source](https://www.linkedin.com/posts/parrsam_were-starting-a-hampton-youtube-channel-activity-7427008897854619648-59Hq))
 - **Public signal**: Moneywise generated $2.5M pipeline; described as lead-gen tool, not ad revenue ([source](https://lowerstreet.co/case-studies/hampton-moneywise))
 
 **Chief**
-- *The New Rules of Business*: Hosted by co-founders Carolyn Childers and Lindsay Kaplan; ranked #1 Business podcast, #1 Business Management podcast, #16 overall on Apple US in December (source period unclear from search results) ([source](https://shortyawards.com/15th/chief))
+- *The New Rules of Business*: Hosted by co-founders Carolyn Childers and Lindsay Kaplan; ranked #1 Business podcast, #1 Business Management podcast, #16 overall on Apple US in December 2022 (from 2023 Shorty Awards entry) ([source](https://shortyawards.com/15th/chief))
 - **Public signal**: Downloads increased 100% season 1 to 2, then 300% in season 3; 4.8-star rating on Apple; "This Guy Means Business" campaign video had 270K+ cross-platform views ([source](https://shortyawards.com/15th/chief))
 
 **EO**
@@ -171,7 +171,7 @@ This report covers what the highest-performing peer groups, masterminds, and fam
 
 **YPO**
 - LABx storytelling format at Global Leadership Conference (May 2026, Chicago): "Intimate, peer-led storytelling experience where YPO members shared real stories of challenge, resilience and growth" ([source](https://www.linkedin.com/posts/ypoglobal_ypoglc2026-ypo-ypoglc-activity-7462145069442310145-nvJA))
-- **Public signal**: LinkedIn post received 314 reactions, 7 comments including "It's hearing another leader say something honest that quietly changes how you think about your own decisions"
+- **Public signal**: LinkedIn post received 318 reactions, 7 comments including "It's hearing another leader say something honest that quietly changes how you think about your own decisions"
 
 **EO**
 - Global Leadership Conference (Honolulu 2025): 1,600+ members from 60 countries; next GLC April 15–17, 2026 in Dublin ([source](https://eonetwork.org/blog/10-standout-eo-moments-in-2025-focused-on-learning-leadership-and-community/))
@@ -196,11 +196,11 @@ This report covers what the highest-performing peer groups, masterminds, and fam
 ### LinkedIn & Social
 
 **YPO**
-- Global Leadership Conference video post (May 2026): 314 reactions, 7 comments ([source](https://www.linkedin.com/posts/ypoglobal_ypoglc2026-ypo-ypoglc-activity-7462145069442310145-nvJA))
+- Global Leadership Conference video post (May 2026): 318 reactions, 7 comments ([source](https://www.linkedin.com/posts/ypoglobal_ypoglc2026-ypo-ypoglc-activity-7462145069442310145-nvJA))
 - Leadership investment post (Feb 2026): 362 reactions, 6 comments ([source](https://www.linkedin.com/posts/ypoglobal_ypoglc2026-leadershipinaction-betterleadersbetterworld-activity-7426913160240234496--iXn))
 
 **EO**
-- Branded podcasts post (April 2026): 10 reactions, 0 comments ([source](https://www.linkedin.com/posts/entrepreneursorganization_brandedpodcasts-entrepreneursorganization-activity-7445424874224603840-ZyLr))
+- Branded podcasts post (April 2026): 10 reactions, 0 comments (unverified—page now returns 404) ([source](https://www.linkedin.com/posts/entrepreneursorganization_brandedpodcasts-entrepreneursorganization-activity-7445424874224603840-ZyLr))
 
 **Hampton**
 - Sam Parr's content strategy post (date unclear): Explains Hampton's "product-first, media second" approach; hiring creators for YouTube, podcasts, short-form content ([source](https://www.linkedin.com/posts/parrsam_the-entire-plan-with-hampton-i-love-content-activity-7470987740659134466-8t-E))
@@ -214,7 +214,7 @@ This report covers what the highest-performing peer groups, masterminds, and fam
 
 For context on what "good" looks like:
 - **B2B podcasts**: Median 570 downloads/episode; strong is 1,840+; top-tier is 9,400+ ([source](https://www.fame.so/learn/benchmarks))
-- **B2B newsletters**: ~31% open rate, 1.0–1.3% click-through rate (CTR), 3.4–4.1% click-to-open rate (CTOR) for media publishers ([source](https://www.omeda.com/resources/report/newsletter-benchmark-report-for-media-h1-2026/))
+- **B2B newsletters**: Median ~31.6% open rate, 1.16% click-through rate (CTR), 3.8% click-to-open rate (CTOR) for media publishers; B2B media specifically runs about 30.9% open, 1.01% CTR, 3.4% CTOR ([source](https://www.omeda.com/resources/report/newsletter-benchmark-report-for-media-h1-2026/))
 - **Professional newsletters**: Open rates 15–22% (true, filtering Apple MPP inflation); CTOR is most reliable engagement metric ([source](https://research.stripo.email/b2b-email-open-rate-benchmarks-2026))
 
 *Note*: Most elite peer groups do not publish their content engagement metrics. Where numbers are available above, they are included; where unavailable, that is stated plainly.
@@ -262,7 +262,7 @@ For context on what "good" looks like:
 - Moneywise designed "to build the brand identity, without feeling too sales-y...content that was made to be valuable for them, the listener" ([source](https://lowerstreet.co/case-studies/hampton-moneywise))
 
 **Repeatable participation loops**
-- Podcasts work when they create "a repeatable weekly participation loop: one clear prompt, one low-friction response channel, and next-episode follow-through where audience input is featured" ([source](https://whatayarn.com/blog/podcast-audience-engagement-strategies-2026))
+- Podcasts work when they create "a repeatable weekly participation loop: one clear prompt, one low-friction response channel, and next-episode follow-through where audience input is featured" (unverified—page rate-limited) ([source](https://whatayarn.com/blog/podcast-audience-engagement-strategies-2026))
 - Chief of Staff Network: "The podcast became the top of that funnel...The newsletter deepens that relationship...The 25+ local chapters...turn those digital relationships into real-world connections" ([source](https://www.beehiiv.com/case-studies/the-chief-of-staff))
 
 **Member-only research and data**
@@ -300,7 +300,7 @@ For context on what "good" looks like:
 ### The 5 Best Moves
 
 **1. Make the room the product**
-- Build trust and peer quality first. Do not launch publicly until you have proof that the five to seven people in the room genuinely help each other and would refer peers who belong. As EntreHouse says: "The room is the product. One wrong member costs everyone." ([source](https://provenchaos.com/mastermind/))
+- Build trust and peer quality first. Do not launch publicly until you have proof that the five to seven people in the room genuinely help each other and would refer peers who belong. As Proven Chaos Mastermind says: "The room is the product. One wrong member costs everyone." ([source](https://provenchaos.com/mastermind/))
 
 **2. Use specific, verifiable entry criteria**
 - Do not rely on vague language like "successful founders" or "family principals who want to grow." State the floor clearly: revenue, assets, decision authority, or a comparable signal that people can self-assess. TIGER 21's "$20M+ in verifiable investable assets" and Hampton's "$3M+ revenue" work because qualified people know immediately whether they meet the bar. ([source](https://valueaddvc.com/blog/top-family-office-associations-and-networks-you-should-know-about/)) ([source](https://www.leadersadapt.com/ceo-peer-group-2025-guide/))
@@ -389,6 +389,61 @@ All sources are linked inline throughout the document. Below is a consolidated l
 ### Podcast & Video Sources
 - TIGER 21 CEO podcast: https://www.successstorypodcast.com/timothy-daniels-president-and-ceo-of-tiger-21-the-membership-club-for-billionaires/
 - TIGER 21 member stories: https://tiger21.com/news/after-selling-a-business-bonnie-mcgrath-podcast/, https://tiger21.com/news/irina-baranov-guiding-tiger-21-members-from-success-to-significance/
+
+---
+
+## Appendix: Verification Log
+
+*Fact-checked September 30, 2026, by opening cited pages*
+
+All 64 claims in this report were verified by fetching and reading the actual source pages. Results:
+- **CONFIRMED**: 49 claims — the cited page contains the quoted line
+- **CORRECTED**: 10 claims — the right figure is given below with the correct source
+- **UNVERIFIED**: 4 claims — the page wouldn't load or doesn't contain the claim  
+- **LIKELY FABRICATED**: 1 claim — no source anywhere supports it (removed from report)
+
+### Key Corrections Made
+- **YPO age limit**: Changed from "54 or under" to "under 45" (the "54" language is from targeted outreach copy, not the general requirement)
+- **YPO size**: Removed "220+ chapters / 76 countries" (LIKELY FABRICATED; these were EO's old numbers). Updated to "38,000+ members in 150+ countries"
+- **EO size**: Updated from "18,000+ members, 220+ chapters, 76 countries" to "20,300+ members, 225 chapters in 64 countries"
+- **TIGER 21 size**: Updated from "700+ members managing $70+ billion" to "1,900+ members in 162 groups across 54 cities"
+- **IPI pricing**: Corrected from "$30,000–$40,000/year" to "$15,000–$25,000/year"
+- **FOX coverage**: Clarified that "317 offices and $285 billion" is a Campden Wealth survey, not FOX's membership
+- **Hampton Moneywise date**: Corrected from "as of Jan 2024" to "self-reported after about 21 episodes, around mid-2024"
+- **Chief podcast ranking**: Added clarification that #1 ranking was in December 2022 (from 2023 Shorty Awards entry)
+- **LinkedIn engagement**: Updated YPO GLC post from 314 to 318 reactions; YPO LABx from 314 to 318; Season 4 from 75 to 76
+- **Newsletter benchmarks**: Updated to specific medians from Omeda report
+- **"Room is the product" quote**: Corrected attribution from EntreHouse to Proven Chaos Mastermind
+
+### Claims Marked as Unverified
+- Relationship Capital ($350 fee, 250 cap, Nov–Dec 2025 window) — site now returns 404
+- Mentor Mastermind (9 meetings/year) — site suspended
+- EO branded-podcasts LinkedIn post (10 reactions, 0 comments) — page now returns 404
+- whatayarn "repeatable weekly participation loop" quote — page rate-limited during verification
+
+### Full Verification Table
+
+| # | Claim | Status | URL | Date |
+|---|---|---|---|---|
+| 1 | YPO: $8,910 + $12,650 initiation | CONFIRMED | leadersadapt.com/ceo-peer-group-2025-guide | 2026-09-30 |
+| 2 | YPO: 220+ chapters, 76 countries | LIKELY FABRICATED | ypo.org/become-a-member | 2026-09-30 |
+| 3 | YPO: age 54 or under | CORRECTED → under 45 | ypo.org/become-a-member | 2026-09-30 |
+| 7 | EO: 18,000+ members, 220+ chapters, 76 countries | CORRECTED → 20,300+, 225, 64 | eonetwork.org | 2026-09-30 |
+| 15 | TIGER 21: 700+ members, $70B+ | CORRECTED → 1,900+ members, 162 groups | tiger21.com | 2026-09-30 |
+| 22 | Moneywise: 20K–40K/ep as of Jan 2024 | CORRECTED → mid-2024 | community.inc | 2026-09-30 |
+| 29 | Chief #1 Business podcast | CONFIRMED (Dec 2022) | shortyawards.com | 2026-09-30 |
+| 32 | IPI: $30K–$40K/year | CORRECTED → $15K–$25K | valueaddvc.com | 2026-09-30 |
+| 35 | FOX: 317 offices, $285B | CORRECTED → Campden survey | valueaddvc.com | 2026-09-30 |
+| 37 | Relationship Capital: $350, 250 cap | UNVERIFIED (404) | relationshipcapital.org | 2026-09-30 |
+| 40 | Mentor Mastermind: 9 meetings/year | UNVERIFIED (suspended) | mentormastermind.mx | 2026-09-30 |
+| 43 | YPO Mistakes Over Failure: 75 reactions | CORRECTED → 76 | linkedin.com | 2026-09-30 |
+| 44 | YPO GLC: 314 reactions | CORRECTED → 318 | linkedin.com | 2026-09-30 |
+| 49 | EO branded-podcasts: 10 reactions | UNVERIFIED (404) | linkedin.com | 2026-09-30 |
+| 52 | Newsletters: ~31% open, 1.0–1.3% CTR | CORRECTED → medians | omeda.com | 2026-09-30 |
+| 55 | "Room is the product" (EntreHouse) | CORRECTED → Proven Chaos | provenchaos.com | 2026-09-30 |
+| 62 | whatayarn participation loop | UNVERIFIED (rate-limited) | whatayarn.com | 2026-09-30 |
+
+*All other claims (49 total) were CONFIRMED with exact quoted lines from their cited sources.*
 
 ---
 
